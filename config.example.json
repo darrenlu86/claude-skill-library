@@ -1,0 +1,5 @@
+{
+  "template": "path/to/your-template.pptx",
+  "footer_text": "Your Company Name",
+  "output_dir": "path/to/output"
+}
